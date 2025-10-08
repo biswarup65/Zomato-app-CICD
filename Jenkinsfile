@@ -15,7 +15,7 @@ pipeline{
         }
         stage("Checkout from Git"){
             steps{
-                git url: "https://github.com/biswarup65/Zomato-Clone.git", branch: "master"
+                git url: "https://github.com/biswarup65/Zomato-app-CICD.git", branch: "main"
             }
         }
         stage("SonarQube Code Analysis"){
