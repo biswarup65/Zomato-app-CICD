@@ -99,7 +99,7 @@ The Jenkins Declarative Pipeline automates the following stages:
 Zomato-app-CICD/
 ├── Jenkinsfile                 # CI/CD pipeline definition
 ├── Dockerfile                  # React app container configuration
-├── docker-compose.yml          # Orchestrates services (app + SonarQube)
+├── docker-compose.yml          # Orchestrates services
 ├── src/                        # React source code
 │   ├── components/
 │   ├── pages/
@@ -108,8 +108,7 @@ Zomato-app-CICD/
 │   ├── index.html
 │   └── favicon.ico
 ├── package.json                # Node dependencies
-├── .env                        # Environment variables
-└── README.md                   # Project documentation-
+└── README.md                   # Project documentation
 ```
 
 ---
