@@ -75,11 +75,16 @@ The Jenkins Declarative Pipeline automates the following stages:
 
 ![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20230924.png)
 
-![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20231023.png)
 
 ---
 
-## 📊 SonarQube Code Quality Dashboard
+
+![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20231023.png)
+
+
+---
+
+## 📊 SonarQube Code Quality Analysis Dashboard
 
 ![SonarQube Dashboard](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-08%20123927.png)
 
