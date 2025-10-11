@@ -63,7 +63,7 @@ The Jenkins Declarative Pipeline automates the following stages:
 
 ## 📊 Jenkins Pipeline Execution
 
-![Jenkins Pipeline View](https://github.com/biswarup65/Zomato-app-CICD/blob/main/assets/snapshots/Screenshot%202025-10-07%20230539.png)
+![Jenkins Pipeline View](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20230539.png)
 
 - **SonarQube Quality Gate:** ✅ Passed  
 - **OWASP & Trivy Scans:** ✅ No critical vulnerabilities  
@@ -73,15 +73,15 @@ The Jenkins Declarative Pipeline automates the following stages:
 
 ## 🌐 Application Preview (Deployed)
 
-![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/assets/snapshots/Screenshot%202025-10-07%20230924.png)
+![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20230924.png)
 
-![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/assets/snapshots/Screenshot%202025-10-07%20231023.png)
+![Zomato React App](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-07%20231023.png)
 
 ---
 
 ## 📊 SonarQube Code Quality Dashboard
 
-![SonarQube Dashboard](https://github.com/biswarup65/Zomato-app-CICD/blob/main/assets/snapshots/Screenshot%202025-10-08%20123927.png)
+![SonarQube Dashboard](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Screenshot%202025-10-08%20123927.png)
 
 ---
 
