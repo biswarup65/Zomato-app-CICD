@@ -2,7 +2,7 @@
 
 ![Project Banner](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Project-Architecture-Diagram.png)
 
----
+
 
 ## 🧩 Project Overview
 
