@@ -2,6 +2,8 @@
 
 ![Project Banner](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Project-Architecture-Diagram.png)
 
+---
+
 ## 🧩 Project Overview
 
 This project demonstrates a **complete DevSecOps CI/CD pipeline** for a **React.js (Node.js-based)** application using **Jenkins**.   
