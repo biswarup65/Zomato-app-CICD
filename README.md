@@ -1,6 +1,6 @@
 # 🚀 DevSecOps Jenkins CI/CD Pipeline for a React.js Application 
 
-![Project Banner](https://sdmntpreastus.oaiusercontent.com/files/00000000-5c60-61f9-b7c4-7262765574c9/raw?se=2025-10-11T07%3A13%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=e0064b02-fb87-51e9-b11f-7bb70cdef242&skoid=03727f49-62d3-42ac-8350-1c0e6559d238&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-11T00%3A25%3A56Z&ske=2025-10-12T00%3A25%3A56Z&sks=b&skv=2024-08-04&sig=1s46wUfj%2BH39TOzjWoY2iPBfUlTIh/ES6KAW1n5dm/4%3D)
+![Project Banner](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Project-Architecture-Diagram.png)
 
 ## 🧩 Project Overview
 
