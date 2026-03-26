@@ -1,4 +1,4 @@
-# 🚀 DevSecOps Jenkins CI/CD Pipeline for a React.js Application 
+# 🚀 DevSecOps Jenkins CI/CD Pipeline for a Node.js Application 
 
 ![Project Banner](https://github.com/biswarup65/Zomato-app-CICD/blob/main/images/Project-Architecture-Diagram.png)
 
@@ -6,7 +6,7 @@
 
 ## 🧩 Project Overview
 
-This project demonstrates a **complete DevSecOps CI/CD pipeline** for a **React.js (Node.js-based)** application using **Jenkins**.   
+This project demonstrates a **complete DevSecOps CI/CD pipeline** for a **Node.js** application using **Jenkins**.   
 
 It integrates **automation, security, and code quality checks** at every stage of the development lifecycle — showcasing a modern **DevSecOps implementation** for end-to-end software delivery.
 
